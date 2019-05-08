@@ -14,7 +14,7 @@ $ npm install
 ```
 2. Install and Run
 * [MongoDB for Mac](https://treehouse.github.io/installation-guides/mac/mongo-mac.html)
- - Highly recommend using HomeBrew for the  MongoDB installation.
+ -Highly recommend using HomeBrew for the  MongoDB installation.
 
 ## Testing
 ```
